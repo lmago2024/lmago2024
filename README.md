@@ -1,4 +1,4 @@
-Hello, I'm Lydia. I'm using GitHub to explore WEB Technologies. This introductory exploration will increase my sklls as a computer user. Knowing how things work improves you ability to use tools and app;lications based on these technologies.
+Hello, I'm Lydia. I'm using GitHub to explore WEB Technologies. This introductory exploration will increase my sklls as a computer user. Knowing how things work improves ones ability to use tools and applications based on these technologies.
 
 I'm learning about HTML, CSS, and Javascript which will make me a better user of WEB based applications.
 
