@@ -1,6 +1,6 @@
 Hello, I'm Lydia. I'm using GitHub to explore WEB Technologies, IT suppurt and programmming. This exploration will increase my sklls as a computer professional. Knowing how things work improves ones ability to use tools and applications based on these technologies.
 
-I'm learning about HTML, CSS, Javascript and Shell programming. My desire is to become an IT progrssional. I have an awesome teacher [ ancientwizad ].
+I'm learning about HTML, CSS, Javascript and Shell programming. My desire is to become an IT progrssional. I have an awesome teacher [ ancientwizard ].
 
 <!---
 
